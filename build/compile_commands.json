@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/josue/ros2_ws/src/lgs_state_estimator/build",
+  "command": "/usr/bin/g++ -DDEFAULT_RMW_IMPLEMENTATION=rmw_cyclonedds_cpp -DRCUTILS_ENABLE_FAULT_INJECTION -I/usr/include/eigen3 -I/home/josue/ros2_ws/src/lgs_state_estimator/include -isystem /opt/ros/galactic/include -g -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/kalman_filter.dir/src/kalman_filter.cpp.o -c /home/josue/ros2_ws/src/lgs_state_estimator/src/kalman_filter.cpp",
+  "file": "/home/josue/ros2_ws/src/lgs_state_estimator/src/kalman_filter.cpp"
+}
+]

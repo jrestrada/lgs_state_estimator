@@ -1,0 +1,2 @@
+source;share/lgs_state_estimator/environment/ament_prefix_path.sh
+source;share/lgs_state_estimator/environment/path.sh
